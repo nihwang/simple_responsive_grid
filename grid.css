@@ -18,3 +18,10 @@ img {
 	width: 100%;
 	marghin: 0 auto;
 }
+
+.wrapper:after,
+.row:after {
+      content: "";
+      display: table;
+      clear: both; 
+}

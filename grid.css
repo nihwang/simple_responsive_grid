@@ -14,3 +14,7 @@ img {
 	height: auto !important;
 }
 
+.wrapper {
+	width: 100%;
+	marghin: 0 auto;
+}
